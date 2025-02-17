@@ -12,21 +12,23 @@ redirect_from:
 Education
 ======
 * Dual Ph.D (expected) in Computational Mathematics Science and Engineering & Astrophysics, Michigan State University, August 2021 - present, GPA - 3.95
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Climate and Space Sciences and Engineering, University of Michigan, August 2016 – April 2018, GPA - 3.60
+* B.S. in Astrophysics, Michigan State University, August 2012 – May 2016, GPA - 3.68
 
-Work experience
+Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* North American Lighting, Optical Engineer II
+  * August 2018 – August 2021
+  * Designed, simulated, and developed optical systems in exterior automotive lighting via CATIA-V5, LucidShape, and SPEOS
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Experience
+======
 
+* Michigan State University, Graduate Research Assistant
+  * August 2021 – present
+  * Develop high order numerical methods to understand the effects of turbulence on magnetohydrodynamics
+  *  Increase the accuracy and reliability of numerical simulations of complex plasma systems
+  
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
