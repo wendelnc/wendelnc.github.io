@@ -72,6 +72,7 @@ classroom group activities, proctoring exams, and hosting review sessions before
 
 Publications
 ======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
