@@ -26,6 +26,13 @@ Education
 	* August 2012 – May 2016
 	* GPA - 3.68
 
+Publications
+======
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 
 Professional Experience
 ======
@@ -108,16 +115,6 @@ Teaching and Mentoring Experience
     * Fall 2013 – Spring 2016 (6 consecutive semesters), 150 students per semester
     * Held office hours, tutored students on course material, supported classroom group activities, proctored exams, and hosted review sessions
 
-
-Publications
-======
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-  
 
 Grants & Awards
 ======
