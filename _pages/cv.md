@@ -164,33 +164,33 @@ Presentations
 ======
 
 * Wendeln, C., Christlieb, A., O’Shea, B., & Grete, P., High Order Numerical Methods for Magnetohydrodynamic Turbulence   
-	* American Physical Society Division of Plasma Physics (APS DPP); Long Beach, CA; November 17-21 2025
-  * International Conference on Numerical Simulation (ICNSP); Irvine, CA; November 12-14 2025
-  * Data Science Student Conference (DISC); East Lansing, MI; August 18-20 2025 (Outstanding Poster Award)
-  * International Conference on Spectral and High-Order Methods (ICOSAHOM); Montreal, Canada; July 13-18 2025
-  * Parthenon Developer Workshop; Ann Arbor, MI; June 16-20 2025
-  * Kyung Hee University; Seoul, South Korea; March 14, 2025
+	* Talk: American Physical Society Division of Plasma Physics (APS DPP); Long Beach, CA; November 17-21 2025
+  * Poster: International Conference on Numerical Simulation (ICNSP); Irvine, CA; November 12-14 2025
+  * Poster & Talk: Data Science Student Conference (DISC); East Lansing, MI; August 18-20 2025 (Outstanding Poster Award)
+  * Talk: International Conference on Spectral and High-Order Methods (ICOSAHOM); Montreal, Canada; July 13-18 2025
+  * Talk: Parthenon Developer Workshop; Ann Arbor, MI; June 16-20 2025
+  * Talk: Kyung Hee University; Seoul, South Korea; March 14, 2025
 
 
 * Wendeln, C. & Landi, E., Detecting Spectroscopic Signatures of Magnetic Reconnection Along the Boundary of Coronal Holes
-  * American Geophysical Union (AGU); New Orleans, LA; December 11-15, 2017
-  * Solar Heliospheric & Interplanetary Environment (SHINE); Saint-Sauveur, Quebec, Canada; July 24-28, 2017
-  * Michigan Geophysical Union; University of Michigan; Ann Arbor, MI; April 7, 2017 (Outstanding Student Presentation Award)
+  * Poster: American Geophysical Union (AGU); New Orleans, LA; December 11-15, 2017
+  * Poster: Solar Heliospheric & Interplanetary Environment (SHINE); Saint-Sauveur, Quebec, Canada; July 24-28, 2017
+  * Poster: Michigan Geophysical Union; University of Michigan; Ann Arbor, MI; April 7, 2017 (Outstanding Student Presentation Award)
 
 * Wendeln, C., Tian, H., Madsen, C., Tracking Small-Scale Transition Region Jets Observed by IRIS to Coronal Structures
-  * Senior thesis: Michigan State University; East Lansing, MI; April 27, 2016
-  * First Joint Solar Probe Plus - Solar Orbiter Workshop; Florence, Italy; September 2-4, 2015
-  * Final presentation: Center for Astrophysics – Harvard & Smithsonian; Cambridge, MA; August 12, 2015
+  * Talk: Senior thesis - Michigan State University; East Lansing, MI; April 27, 2016
+  * Poster: First Joint Solar Probe Plus - Solar Orbiter Workshop; Florence, Italy; September 2-4, 2015
+  * Talk: Final presentation - Center for Astrophysics – Harvard & Smithsonian; Cambridge, MA; August 12, 2015
 
 * Wendeln, C., Chomiuk, L., Finzell, T., Linford, J. D., & Strader, J., A Radio Emission Analysis of Nova Puppis 1991 (V351 Pup)
 
-  * Conference for Undergraduate Women in Physics (CUWiP – later renamed to the Conference for Women and Gender Minorities in Physics); Ohio State University; Columbus, OH; January 15-17, 2016
-  * University Undergraduate Research and Arts Forum (UURAF); Michigan State University; East Lansing, MI; April 10,2015
-  * CUWiP; University of Michigan; Ann Arbor, MI; January 16-18, 2015
-  * 225th American Astronomical Society (AAS); Seattle, WA; January 4-8, 2015
-  * Lyman Briggs College Research Symposium; Michigan State University; East Lansing, MI; April 22, 2014
-  * UURAF; Michigan State University; East Lansing, MI; April 4, 2014
-  * CUWiP; University of Chicago; Chicago, IL; January 16-19, 2014
+  * Poster: Conference for Undergraduate Women in Physics (CUWiP – later renamed to the Conference for Women and Gender Minorities in Physics); Ohio State University; Columbus, OH; January 15-17, 2016
+  * Poster: University Undergraduate Research and Arts Forum (UURAF); Michigan State University; East Lansing, MI; April 10,2015
+  * Poster: CUWiP; University of Michigan; Ann Arbor, MI; January 16-18, 2015
+  * Poster: 225th American Astronomical Society (AAS); Seattle, WA; January 4-8, 2015
+  * Poster: Lyman Briggs College Research Symposium; Michigan State University; East Lansing, MI; April 22, 2014
+  * Poster: UURAF; Michigan State University; East Lansing, MI; April 4, 2014
+  * Poster: CUWiP; University of Chicago; Chicago, IL; January 16-19, 2014
 
 
 
