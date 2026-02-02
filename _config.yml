@@ -22,9 +22,9 @@ repository               : "wendelnc/wendelnc.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : #"Carolyn Wendeln"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : "Michigan State University"
   uri              : # URL
