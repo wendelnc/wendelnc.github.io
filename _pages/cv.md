@@ -101,7 +101,7 @@ Teaching and Mentoring Experience
     * 25 students per semester
     * Responsibilities included leading laboratory sections, hosting observatory viewing nights, and holding office hours to tutor and support students 
 
-* Undergraduate Teaching Assistant, Michigan State University
+* Undergraduate Learning Assistant, Michigan State University
 	* August 2013 – May 2016
   * PHY 183 (Physics for Scientists and Engineers) 
     * Spring 2016; 275 students per semester
