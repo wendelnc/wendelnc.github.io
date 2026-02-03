@@ -129,7 +129,7 @@ Grants & Awards
  
 * Michigan Space Grant Consortium Fellowship, Fall 2015
 
-* Outstanding Undergraduate Teaching Assistant Award, Spring 2015
+* Outstanding Undergraduate Learning Assistant Award, Spring 2015
 
 * Lawrence W. Hantel Endowed Fellowship, Fall 2014	
 
@@ -166,7 +166,7 @@ Presentations
 * Wendeln, C., Christlieb, A., O’Shea, B., & Grete, P., High Order Numerical Methods for Magnetohydrodynamic Turbulence   
 	* Talk: American Physical Society Division of Plasma Physics (APS DPP); Long Beach, CA; November 17-21 2025
   * Poster: International Conference on Numerical Simulation (ICNSP); Irvine, CA; November 12-14 2025
-  * Poster & Talk: Data Science Student Conference (DISC); East Lansing, MI; August 18-20 2025 (Outstanding Poster Award)
+  * Poster and Talk: Data Science Student Conference (DISC); East Lansing, MI; August 18-20 2025 (Outstanding Poster Award)
   * Talk: International Conference on Spectral and High-Order Methods (ICOSAHOM); Montreal, Canada; July 13-18 2025
   * Talk: Parthenon Developer Workshop; Ann Arbor, MI; June 16-20 2025
   * Talk: Kyung Hee University; Seoul, South Korea; March 14, 2025
@@ -178,9 +178,9 @@ Presentations
   * Poster: Michigan Geophysical Union; University of Michigan; Ann Arbor, MI; April 7, 2017 (Outstanding Student Presentation Award)
 
 * Wendeln, C., Tian, H., Madsen, C., Tracking Small-Scale Transition Region Jets Observed by IRIS to Coronal Structures
-  * Talk: Senior thesis - Michigan State University; East Lansing, MI; April 27, 2016
+  * Talk: Senior thesis, Michigan State University; East Lansing, MI; April 27, 2016
   * Poster: First Joint Solar Probe Plus - Solar Orbiter Workshop; Florence, Italy; September 2-4, 2015
-  * Talk: Final presentation - Center for Astrophysics – Harvard & Smithsonian; Cambridge, MA; August 12, 2015
+  * Talk: Final presentation, Center for Astrophysics – Harvard & Smithsonian; Cambridge, MA; August 12, 2015
 
 * Wendeln, C., Chomiuk, L., Finzell, T., Linford, J. D., & Strader, J., A Radio Emission Analysis of Nova Puppis 1991 (V351 Pup)
 
